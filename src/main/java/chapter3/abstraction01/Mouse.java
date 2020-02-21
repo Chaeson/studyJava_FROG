@@ -1,4 +1,4 @@
-package chapter3;
+package chapter3.abstraction01;
 
 public class Mouse {
     public String name;
