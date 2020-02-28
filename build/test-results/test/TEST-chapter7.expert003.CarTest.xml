@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chapter7.expert003.CarTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-27T14:19:39" hostname="wookiui-MacBookPro.local" time="0.004">
+  <properties/>
+  <testcase name="자동차_한국타이어_장착_타이어브랜드_테스트" classname="chapter7.expert003.CarTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[2월 27, 2020 11:19:39 오후 org.springframework.test.context.support.AbstractTestContextBootstrapper getDefaultTestExecutionListenerClassNames
+정보: Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2월 27, 2020 11:19:39 오후 org.springframework.test.context.support.AbstractTestContextBootstrapper getTestExecutionListeners
+정보: Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1885365a, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@61988371, org.springframework.test.context.support.DirtiesContextTestExecutionListener@784d90d3, org.springframework.test.context.event.EventPublishingTestExecutionListener@60b2e94]
+]]></system-err>
+</testsuite>

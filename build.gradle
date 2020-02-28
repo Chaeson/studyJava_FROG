@@ -13,4 +13,8 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+    implementation (group: 'org.springframework', name: 'spring-webmvc', version: '5.2.2.RELEASE')
+    testImplementation (group: 'org.springframework', name: 'spring-test', version: '5.2.3.RELEASE')
+    implementation (group: 'org.springframework', name: 'spring-aop', version: '5.2.2.RELEASE')
+    implementation(group: 'org.springframework', name: 'spring-aspects', version: '3.2.4.RELEASE')
 }
